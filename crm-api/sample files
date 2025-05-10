@@ -1,0 +1,37 @@
+{
+  "name": "Rohit Sharma",
+  "email": "rohit@example.com",
+  "phone": "9876543210",
+  "gender": "Male",
+  "age": 28,
+  "city": "Delhi",
+  "joined_date": "2023-04-12",
+  "last_active_date": "2024-12-20",
+  "total_spend": 0,
+  "num_orders": 0,
+  "preferred_category": "Electronics",
+  "email_verified": true
+}
+
+
+
+
+{
+  "customer_id": 3,
+  "order_date": "2025-05-08",
+  "amount": 4999.99,
+  "product_name": "Wireless Earbuds",
+  "category": "Electronics",
+  "status": "Completed"
+}
+
+
+{
+  "customer_id": 3,
+  "order_date": "2025-05-09",
+  "amount": 2599.50,
+  "product_name": "Smartwatch",
+  "category": "Wearables",
+  "status": "Completed"
+}
+
